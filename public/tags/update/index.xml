@@ -2,37 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>update on Oddish1</title>
-    <link>http://oddish1.xyz/tags/update/</link>
-    <description>Recent content in update on Oddish1</description>
+    <link>https://oddish1.xyz/tags/update/</link>
+    <description>Oddish1 (update)</description>
     <generator>Hugo -- gohugo.io</generator>
-      <language>en-us</language><atom:link href="http://oddish1.xyz/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+    <atom:link href="https://oddish1.xyz/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello There!</title>
-      <link>http://oddish1.xyz/posts/hello-there/</link>
+      <link>https://oddish1.xyz/posts/hello-there/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>http://oddish1.xyz/posts/hello-there/</guid>
-      <description>Hello, World!
-Welcome to my brand new website that I am running using a really simple tool called Hugo. For those of you who may not know, Hugo is one of the most popular static site generators. It turns simple plain-text markdown into great looking webpages, and allows for customization from the basic of changing themes, to full on customization depending on your skill-level.
-What to Expect Over time, I will be sharing a mix of tutorials, personal stories, insights, and anything that inspires me to write a new post.</description>
-      <content>&lt;p&gt;Hello, World!&lt;/p&gt;
+      
+      <guid>https://oddish1.xyz/posts/hello-there/</guid>
+      <description>&lt;p&gt;Hello, World!&lt;/p&gt;
 &lt;p&gt;Welcome to my brand new website that I am running using a really simple tool called Hugo. For those of you who may not know, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is one of the most popular static site generators. It turns simple plain-text markdown into great looking webpages, and allows for customization from the basic of changing themes, to full on customization depending on your skill-level.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-to-expect&#34;&gt;
-  What to Expect
-  &lt;a href=&#34;#what-to-expect&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;Over time, I will be sharing a mix of tutorials, personal stories, insights, and anything that inspires me to write a new post. Whether you are here to learn, engage, or just browse, I hope my posts resonate with you on some level and that you come back for more the next time I post.&lt;/p&gt;
-
-&lt;h1 id=&#34;engage-with-me&#34;&gt;
-  Engage With Me
-  &lt;a href=&#34;#engage-with-me&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m happy to connect with anyone out there reading. If you have feedback, questions, or topics you would be interested in seeing me possibly cover in the future, please don&amp;rsquo;t hesitate to reach out. You can &lt;a href=&#34;mailto:austin@austinwinslow.com&#34;&gt;email me&lt;/a&gt; or find me other places on the internet!&lt;/p&gt;
+&lt;h1 id=&#34;what-to-expect&#34; &gt;What to Expect
+&lt;span&gt;
+    &lt;a href=&#34;#what-to-expect&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;&lt;p&gt;Over time, I will be sharing a mix of tutorials, personal stories, insights, and anything that inspires me to write a new post. Whether you are here to learn, engage, or just browse, I hope my posts resonate with you on some level and that you come back for more the next time I post.&lt;/p&gt;
+&lt;h1 id=&#34;engage-with-me&#34; &gt;Engage With Me
+&lt;span&gt;
+    &lt;a href=&#34;#engage-with-me&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;&lt;p&gt;I&amp;rsquo;m happy to connect with anyone out there reading. If you have feedback, questions, or topics you would be interested in seeing me possibly cover in the future, please don&amp;rsquo;t hesitate to reach out. You can &lt;a href=&#34;mailto:austin@austinwinslow.com&#34;&gt;email me&lt;/a&gt; or find me other places on the internet!&lt;/p&gt;
 &lt;p&gt;Thank you for stopping by. Building this website has been exciting for me so far, and I can&amp;rsquo;t wait to see where it goes from here. You can follow along by bookmarking this page, or subscribing via RSS.&lt;/p&gt;
 &lt;p&gt;Until next time,&lt;/p&gt;
 &lt;p&gt;Oddish1&lt;/p&gt;
-</content>
+</description>
     </item>
+    
   </channel>
 </rss>

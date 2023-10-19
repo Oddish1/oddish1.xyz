@@ -4,6 +4,7 @@ description = ""
 date = "October 17 2023"
 tags = ["update"]
 draft = false
+summary = "Welcome to my brand new website that I am running using a really simple tool called Hugo. Over time, I will be sharing a mix of tutorials, personal stories, insights, and anything that inspires me to write a new post. Whether you are here to learn, engage, or just browse, I hope my posts resonate with you on some level and that you come back for more the next time I post."
 +++
 
 Hello, World!

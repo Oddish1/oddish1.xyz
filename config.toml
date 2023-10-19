@@ -1,0 +1,49 @@
+baseURL = 'http://oddish1.xyz'
+languageCode = 'en-us'
+title = 'Oddish1'
+theme='hugo-xterm'
+enableInlineShortcodes=true
+paginate=10
+
+# Metadata
+enableRobotsTXT=true
+
+[params]
+	centerTheme=true
+	showMenuItems=true
+	favicon="/images/frog.png"
+	toc = true
+	author = "Austin Winslow"
+	description = "A personal blog that discusses tutorials, personal stories and insights, and talks about a lot of nerdy things. Topics range from technology, programming, movies, music, and whatever I am inspired to share."
+
+# Menu
+[[languages.en.menu.main]]
+	name = "About"
+	url = "/about/index.html"
+	weight = 20
+
+[[languages.en.menu.main]]
+	name = "Blog"
+	url = "/posts/"
+	weight = 30
+
+[[languages.en.menu.main]]
+	name = "Contact"
+	url = "/contact/index.html"
+	weight = 40
+
+[markup]
+	[markup.tableOfContents]
+		startLevel = 1
+		endLevel = 3
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+
+[staticDirs]
+	images = "images"
+
+[outputs]
+	home = ["HTML", "RSS"]
+	section = ["HTML", "RSS"]
